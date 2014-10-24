@@ -1,3 +1,3 @@
 all:
-	g++ main.cpp
+	g++ -g main.cpp
 	./a.out
